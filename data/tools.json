@@ -4025,5 +4025,20 @@
     "description": "Local-first desktop workspace for notes, documents and files on Windows and macOS, with no account and peer-to-peer device sync.",
     "license": "MPL-2.0",
     "added": "2026-10-21"
+  },
+  {
+    "name": "Color by Tej SolPro",
+    "repo": "TejSolPro/color",
+    "homepage": "https://tejsolpro.github.io/color/",
+    "category": "creator-media",
+    "description": "Turns one brand color into accessible semantic color tokens for web interfaces, checking each intended pair against WCAG 2.2.",
+    "license": "MPL-2.0",
+    "links": [
+      {
+        "label": "docs",
+        "url": "https://tejsolpro.github.io/color/documentation/"
+      }
+    ],
+    "added": "2026-10-21"
   }
 ]
