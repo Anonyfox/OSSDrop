@@ -3986,59 +3986,5 @@
       }
     ],
     "added": "2026-10-18"
-  },
-  {
-    "name": "StoneSVN",
-    "repo": "firzen/StoneSVN",
-    "homepage": "https://stonesvn.github.io/en/",
-    "category": "developer-tools-cli",
-    "description": "SVN desktop client for developers to review diffs, select commits and shelve local changes on Windows, macOS and Linux.",
-    "license": "MIT",
-    "links": [
-      {
-        "label": "docs",
-        "url": "https://github.com/firzen/StoneSVN/blob/main/QUICKSTART.md"
-      }
-    ],
-    "added": "2026-10-21"
-  },
-  {
-    "name": "Orbi",
-    "repo": "orbi-build/orbi",
-    "homepage": "https://orbi.build/",
-    "category": "ai-coding-agents",
-    "description": "Self-hostable coding agent for GitHub: label an Issue and it opens a tested PR, gets a separate AI review, and merges it.",
-    "license": "AGPL-3.0",
-    "links": [
-      {
-        "label": "docs",
-        "url": "https://docs.orbi.build/"
-      }
-    ],
-    "added": "2026-10-21"
-  },
-  {
-    "name": "Koru",
-    "repo": "koruworks/mono",
-    "homepage": "https://www.koru.do",
-    "category": "notes-knowledge",
-    "description": "Local-first desktop workspace for notes, documents and files on Windows and macOS, with no account and peer-to-peer device sync.",
-    "license": "MPL-2.0",
-    "added": "2026-10-21"
-  },
-  {
-    "name": "Color by Tej SolPro",
-    "repo": "TejSolPro/color",
-    "homepage": "https://tejsolpro.github.io/color/",
-    "category": "creator-media",
-    "description": "Turns one brand color into accessible semantic color tokens for web interfaces, checking each intended pair against WCAG 2.2.",
-    "license": "MPL-2.0",
-    "links": [
-      {
-        "label": "docs",
-        "url": "https://tejsolpro.github.io/color/documentation/"
-      }
-    ],
-    "added": "2026-10-21"
   }
 ]
