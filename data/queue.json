@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "name": "Open-CUAK",
+    "repo": "Aident-AI/open-cuak",
+    "homepage": "https://aident.ai",
+    "category": "automation-iot",
+    "description": "Open-source platform for running and managing browser-automation agents (computer-use agents) at scale, self-hostable with Docker.",
+    "license": "Apache-2.0",
+    "publishOn": "2026-10-25"
+  },
+  {
+    "name": "BookmarkForge",
+    "repo": "bookmarkforge/bookmarkforge-core",
+    "homepage": "https://bookmarkforgeapp.com",
+    "category": "productivity",
+    "description": "Local-first encrypted vault for bookmarks and notes with free smart search. MIT core; Pro features are paid and proprietary.",
+    "license": "MIT",
+    "links": [
+      {
+        "label": "docs",
+        "url": "https://github.com/bookmarkforge/bookmarkforge-core#readme"
+      }
+    ],
+    "publishOn": "2026-10-25"
+  },
+  {
+    "name": "loopsmith",
+    "repo": "bitphill/loopsmith",
+    "homepage": "https://bitphill.github.io/loopsmith/",
+    "category": "ai-coding-agents",
+    "description": "Rust CLI that runs a repeatable task as a self-correcting agent loop, finished only when a deterministic checker, not the AI, passes.",
+    "license": "MIT",
+    "publishOn": "2026-10-25"
+  },
+  {
+    "name": "System One SDK",
+    "repo": "ziyu/system-one-sdk",
+    "homepage": "https://system-one.dev/en/sdk",
+    "category": "ai-coding-agents",
+    "description": "TypeScript SDK for AI-agent decision layers, with adapters for the hosted System One API or your own local model runtimes.",
+    "license": "MIT",
+    "links": [
+      {
+        "label": "docs",
+        "url": "https://system-one.dev/en/api"
+      }
+    ],
+    "publishOn": "2026-10-25"
+  },
+  {
+    "name": "artgen-effects",
+    "repo": "ziyu/artgen-effects",
+    "homepage": "https://github.com/ziyu/artgen-effects",
+    "category": "creator-media",
+    "description": "Open-source image effects for pixel art, ASCII art, and risograph-style prints in the browser.",
+    "license": "MIT",
+    "publishOn": "2026-10-25"
+  }
+]
