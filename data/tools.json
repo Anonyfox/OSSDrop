@@ -4133,5 +4133,20 @@
     "description": "Free open-source mouse gestures for Windows: hold right button to draw gestures, hot corners, and Lua scripting.",
     "license": "MIT",
     "added": "2026-10-30"
+  },
+  {
+    "name": "Chatoyant",
+    "repo": "Anonyfox/chatoyant",
+    "homepage": "https://github.com/Anonyfox/chatoyant",
+    "category": "ai-coding-agents",
+    "description": "OCaml-first LLM SDK with typed provider clients, structured outputs, tool calling and streaming, plus a zero-dependency npm package.",
+    "license": "MIT",
+    "links": [
+      {
+        "label": "docs",
+        "url": "https://anonyfox.github.io/chatoyant/"
+      }
+    ],
+    "added": "2026-10-30"
   }
 ]
