@@ -4051,21 +4051,6 @@
     "added": "2026-10-25"
   },
   {
-    "name": "BookmarkForge",
-    "repo": "bookmarkforge/bookmarkforge-core",
-    "homepage": "https://bookmarkforgeapp.com",
-    "category": "productivity",
-    "description": "Local-first encrypted vault for bookmarks and notes with free smart search. MIT core; Pro features are paid and proprietary.",
-    "license": "MIT",
-    "links": [
-      {
-        "label": "docs",
-        "url": "https://github.com/bookmarkforge/bookmarkforge-core#readme"
-      }
-    ],
-    "added": "2026-10-25"
-  },
-  {
     "name": "loopsmith",
     "repo": "bitphill/loopsmith",
     "homepage": "https://bitphill.github.io/loopsmith/",
