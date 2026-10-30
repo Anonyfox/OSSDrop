@@ -4097,5 +4097,14 @@
     "description": "Open-source image effects for pixel art, ASCII art, and risograph-style prints in the browser.",
     "license": "MIT",
     "added": "2026-10-25"
+  },
+  {
+    "name": "lfr",
+    "repo": "Anonyfox/lfr",
+    "homepage": "https://lfr.email/",
+    "category": "communication-social",
+    "description": "Self-hosted mail server and newsletter platform in one Go binary, for running mailboxes and newsletters on your own domains and server.",
+    "license": "MIT",
+    "added": "2026-10-30"
   }
 ]
